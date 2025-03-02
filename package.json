@@ -2,8 +2,10 @@
     "name": "python-beautifier",
     "displayName": "Python Beautifier",
     "description": "A sleek and soothing theme designed to enhance your coding experience. With soft, vibrant syntax highlights against a dark background, this theme makes Python code clean, clear, and easy on the eyes—perfect for long coding sessions!",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "python-beautifier",
+    "repository": {},
+    "icon": "python.png",
     "engines": {
         "vscode": "^1.96.0"
     },
